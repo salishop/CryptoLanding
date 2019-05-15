@@ -217,6 +217,9 @@ footer{
     margin-left: -115px;
     margin-top: 15px;
 }
+.crypto-chart{
+    background: #FAFAFA;
+}
  .crypto-chart .bg-with-ellipse{
      width: 355px;
      height: 380px;
